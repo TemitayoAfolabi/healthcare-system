@@ -1,0 +1,17 @@
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\DoctorController.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\MatchingService.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\NotificationController.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\PatientController.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\RealTimeProcessor.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\controllers\TelemedicineSessionController.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\daos\AlertDAO.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\daos\DoctorDAO.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\daos\NotificationDAO.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\daos\PatientDAO.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\daos\TelemedicineSessionDAO.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\Alert.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\DatabaseConnection.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\Doctor.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\Notification.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\Patient.java
+C:\Users\afolabi.t.1\healthcare-system\healthcare-system\src\main\java\com\nu\models\TelemedicineSession.java
