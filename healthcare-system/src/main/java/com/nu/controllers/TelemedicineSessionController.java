@@ -1,3 +1,15 @@
+/**
+ * This file represents the TelemedicineSessionController class, which is responsible for handling telemedicine session related operations.
+ * It is located in the com.nu.controllers package.
+ * 
+ * The TelemedicineSessionController class is a part of the healthcare-system project and is used to manage telemedicine sessions.
+ * 
+ * This class contains methods and functionalities related to telemedicine session management, such as creating a new session, updating session details, and retrieving session information.
+ * 
+ * The TelemedicineSessionController class is designed to handle the business logic and communication between the front-end and the back-end for telemedicine session operations.
+ * 
+ * It is used in conjunction with other classes and components to provide a comprehensive telemedicine session management system.
+ */
 package com.nu.controllers;
 
 

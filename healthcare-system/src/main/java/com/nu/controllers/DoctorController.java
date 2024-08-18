@@ -1,3 +1,15 @@
+/**
+ * This file represents the DoctorController class, which is responsible for handling requests related to doctors in the healthcare system.
+ * 
+ * The DoctorController class is part of the com.nu.controllers package and serves as a controller for managing doctor-related operations.
+ * It handles requests and performs necessary actions to interact with the healthcare system's doctor functionality.
+ * 
+ * This class is responsible for handling various operations related to doctors, such as creating new doctors, updating doctor information, retrieving doctor details, and deleting doctors.
+ * It provides endpoints that can be accessed by clients to perform these operations.
+ * 
+ * The DoctorController class plays a crucial role in the overall functionality of the healthcare system, as it ensures smooth communication and interaction with the doctor-related features.
+ * It works in conjunction with other classes and components to provide a comprehensive doctor management system.
+ */
 package com.nu.controllers;
 
 import java.io.IOException;

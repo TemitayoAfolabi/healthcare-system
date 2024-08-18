@@ -1,3 +1,18 @@
+/**
+ * This file represents the AlertDAO class, which is responsible for handling data access operations related to alerts in the healthcare system.
+ * It is located in the com.nu.daos package.
+ * 
+ * The AlertDAO class provides methods for retrieving, creating, updating, and deleting alert data from the database.
+ * 
+ * Example usage:
+ * 
+ * AlertDAO alertDAO = new AlertDAO();
+ * List<Alert> alerts = alertDAO.getAllAlerts();
+ * 
+ * for (Alert alert : alerts) {
+ *     System.out.println(alert.getMessage());
+ * }
+ */
 package com.nu.daos;
 
 import com.nu.models.Alert;

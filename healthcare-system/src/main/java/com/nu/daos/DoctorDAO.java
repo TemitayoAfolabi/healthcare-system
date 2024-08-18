@@ -1,3 +1,21 @@
+/**
+ * This file represents the DoctorDAO class, which is responsible for handling data access operations related to doctors in the healthcare system.
+ * It is located in the com.nu.daos package.
+ * 
+ * The DoctorDAO class provides methods for retrieving, creating, updating, and deleting doctor records in the database.
+ * It interacts with the underlying database to perform these operations.
+ * 
+ * Usage:
+ * 1. Instantiate the DoctorDAO class to access its methods.
+ * 2. Use the provided methods to perform CRUD operations on doctor records.
+ * 
+ * Example:
+ * DoctorDAO doctorDAO = new DoctorDAO();
+ * Doctor doctor = new Doctor("John Doe", "Cardiology");
+ * doctorDAO.create(doctor);
+ * 
+ * Note: This class assumes the existence of a database connection and appropriate table schema for storing doctor records.
+ */
 package com.nu.daos;
 
 import com.nu.models.Doctor;

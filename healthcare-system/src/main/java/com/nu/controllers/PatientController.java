@@ -1,3 +1,15 @@
+/**
+ * This file represents the PatientController class, which is responsible for handling requests related to patients in the healthcare system.
+ *
+ * 
+ * The PatientController class is a part of the com.nu.controllers package.
+ * 
+ * This class is responsible for handling various operations related to patients, such as creating a new patient, updating patient information, retrieving patient details, and deleting a patient from the system.
+ * 
+ * It acts as a controller that receives requests from the client and interacts with the appropriate service classes to perform the necessary operations.
+ * 
+ * The PatientController class plays a crucial role in the overall functionality of the healthcare system, as it ensures the smooth handling of patient-related operations.
+ */
 package com.nu.controllers;
 
 import com.nu.daos.PatientDAO;
